@@ -1,0 +1,10 @@
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\bin\Debug\Apsiyon_case4.exe.config
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\bin\Debug\Apsiyon_case4.exe
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\bin\Debug\Apsiyon_case4.pdb
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\obj\Debug\Apsiyon_case4.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\obj\Debug\Apsiyon_case4.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\obj\Debug\Apsiyon_case4.exe
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\obj\Debug\Apsiyon_case4.pdb
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\bin\Debug\WebDriver.dll
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\bin\Debug\WebDriver.xml
+C:\Users\yigit\source\repos\Apsiyon_case4\Apsiyon_case4\obj\Debug\Apsiyon_case4.csproj.CopyComplete
