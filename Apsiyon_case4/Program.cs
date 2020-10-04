@@ -52,11 +52,11 @@ namespace Apsiyon_case4
 
             if (driver.FindElement(By.Id("searchResultNotFound")).Displayed)
             {
-                Console.WriteLine("Ürün bulunamadı")
+                Console.WriteLine("Ürün bulunamadı");
             }
             else
             {
-                Console.WriteLine("Ürün var")
+                Console.WriteLine("Ürün var");
 
             }
         }
